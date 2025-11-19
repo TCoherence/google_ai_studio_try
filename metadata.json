@@ -1,0 +1,5 @@
+{
+  "name": "DeepDive - AI Research Agent",
+  "description": "A minimalist, dual-pane deep research interface powered by Gemini 2.5. Features real-time streaming artifacts, Google Search grounding, and distraction-free typography.",
+  "requestFramePermissions": []
+}
